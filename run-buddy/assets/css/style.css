@@ -174,3 +174,7 @@ header a {
     color: #39a6b2;
     font-size: 23px;
   }
+
+  .steps span {
+    font-size: 38px;
+  }
